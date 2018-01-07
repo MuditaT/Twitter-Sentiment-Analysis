@@ -13,14 +13,14 @@ pixiedust.installPackage(jarPath)
 
 
 # twitter app credentials
-ConsumerKey_twitter = "V515GLerC16FZ0nAd8hRXYT1b"
-ConsumerSecret_twitter ="hDqcosgGyRmLnc9FGg6Or9BQwNscULJACCpbtrO7na13r7gFDf"
-AccessToken_twitter = "2988760706-TKk9e0xIOJO0tg4SNHPvfB19c1OsEaXzRSo92eq"
-AccessTokenSecret_twitter = "h5hC0u1RLFmpky3K3clFqUeCM5AVTnW2PfSwicX14bM5Y"
+ConsumerKey_twitter = ""
+ConsumerSecret_twitter =""
+AccessToken_twitter = ""
+AccessTokenSecret_twitter = ""
 
 #ibm watson bluemix credentials
-Password_toneAnalyzer="zzmyGhYs6Q8U"
-UserName_toneAnalyzer="29d52d28-ae17-4d8a-9ce3-9186e69ea2ff"
+Password_toneAnalyzer=""
+UserName_toneAnalyzer=""
 
 
 # In[5]:
